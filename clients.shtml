@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+      <title>Inex Clients</title>
+      <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+      <!-- Edited Content Today Starts -->
+      <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900|Nunito:800|Poppins" rel="stylesheet">
+      <!-- Edited Content Ends -->
+      <link href="https://cdn.jsdelivr.net/npm/fontisto@v3.0.4/css/fontisto/fontisto.min.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <script src="js/modernizr.js"></script>
+   </head>
+   <body>
+   <header>
+      <div class="flexheader">
+         <div>
+            <a href="#" class="logoimg"><img src="images/logo.png" alt=""></a>
+         </div>
+         <div>
+            <div id="nav-icon">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+            </div>
+            <nav>
+               <ul>
+                  <li><a href="#">ABOUT US</a></li>
+                  <li><a href="#">PROJECTS</a></li>
+                  <li><a href="#">POLICIES</a></li>
+                  <li><a href="#">SERVICES</a></li>
+                  <li><a href="#" class="active">Clients</a></li>
+                  <li><a href="#">CONTACT US</a></li>
+               </ul>
+            </nav>
+            <div class="searchbox">
+               <a href="#"><i class="fi fi-search"></i></a>
+            </div>
+         </div>
+      </div>
+   </header>
+   <div class="searchbelow">
+      <input type="text" name="" placeholder="Search...">
+      <button><i class="fi fi-search"></i></button>
+   </div>
+   <div class="topcover coverBG" data-bg="images/clientbg.jpg">
+    <!-- Edited Content Today Starts -->
+     <div class="flextopcover">
+        <div>
+          <div class="container">
+            <h1>​<b>IN</b>-time <b>EX</b>ecution</h1>
+          </div>
+        </div>
+     </div>
+     <!-- Edited Content Ends -->
+   </div>
+   <div class="flexcovertop">
+         <div>
+            <div class="container">
+               <div class="hometexttop">
+                  <div>
+                     <h1 class="stylehead" data-animated="fadeInUp"><b>Major</b>Clients</h1>
+                  </div>
+                  <div data-animated="fadeInUp">
+                     <p>Lerem ipsum range of services related to interiors and construction in general.<br/><b>Working Hours: Saturday - Thursday: 9:00AM–5:00PM</b></p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Edited Content Today Starts -->
+      <div class="clientlist">
+        <div class="container">
+            <div class="clientflex" data-animated="fadeInUp">
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+              <div>
+                <img src="images/logo1.png" alt="">
+              </div>
+            </div>
+        </div>
+      </div>
+      <!-- Edited Content Ends -->
+      <footer>
+        <div class="container">
+          <div class="subscribebox">
+              <div>
+                 <input type="text" placeholder="sign up our newsletter" name="">
+                 <button>&#xe9a2;</button>
+              </div>
+           </div>
+           <div class="bottomfooter">
+              <div>
+                 <span>&copy; 2018 InEx Contracting and Interiors LLC. Designed by <a href="#" target="_blank">Adequate</a></span>
+              </div>
+              <div>
+                 <ul>
+                    <li><a href="#"><i class="fi fi-facebook"></i></a></li>
+                    <li><a href="#"><i class="fi fi-instagram"></i></a></li>
+                    <li><a href="#"><i class="fi fi-youtube-play"></i></a></li>
+                    <li><a href="#"><i class="fi fi-twitter"></i></a></li>
+                 </ul>
+              </div>
+           </div>
+         </div>
+      </footer>
+   <!-- script -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+   <script src="js/main.min.js"></script>
+   </body>
+</html>

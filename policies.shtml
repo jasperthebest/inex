@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+      <title>Inex Policies</title>
+      <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+      <!-- Edited Content Today Starts -->
+      <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900|Nunito:800|Poppins" rel="stylesheet">
+      <!-- Edited Content Ends -->
+      <link href="https://cdn.jsdelivr.net/npm/fontisto@v3.0.4/css/fontisto/fontisto.min.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <script src="js/modernizr.js"></script>
+   </head>
+   <body>
+   <header>
+      <div class="flexheader">
+         <div>
+            <a href="#" class="logoimg"><img src="images/logo.png" alt=""></a>
+         </div>
+         <div>
+            <div id="nav-icon">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+            </div>
+            <nav>
+               <ul>
+                  <li><a href="#">ABOUT US</a></li>
+                  <li><a href="#">PROJECTS</a></li>
+                  <li><a href="#" class="active">POLICIES</a></li>
+                  <li><a href="#">SERVICES</a></li>
+                  <li><a href="#">Clients</a></li>
+                  <li><a href="#">CONTACT US</a></li>
+               </ul>
+            </nav>
+            <div class="searchbox">
+               <a href="#"><i class="fi fi-search"></i></a>
+            </div>
+         </div>
+      </div>
+   </header>
+   <div class="searchbelow">
+      <input type="text" name="" placeholder="Search...">
+      <button><i class="fi fi-search"></i></button>
+   </div>
+   <div class="topcover coverBG" data-bg="images/aboutusbg.jpg">
+     <!-- Edited Content Today Starts -->
+     <div class="flextopcover">
+        <div>
+          <div class="container">
+            <h1><b>IN</b>dividual <b>EX</b>pertise</h1>
+          </div>
+        </div>
+     </div>
+     <!-- Edited Content Ends -->
+   </div>
+   <div class="tabscrollbg">
+   <div class="container">
+      <div class="aboutme">
+        <div class="topnavscroll" data-animated="fadeInUp">
+          <ul>
+            <li class="active"><span>Health & Safety Policy</span></li>
+            <li><span>Environmental Policy</span></li>
+            <li><span>Quality Policy</span></li>
+          </ul>
+        </div>
+          <div class="contentabtscroll" data-animated="fadeInUp">
+            <div>
+              <div class="flexaboutme">
+                <div>
+                  <img src="images/aboutsect.png" alt="">
+                </div>
+                <div>
+                  <div class="scrollabtliner">
+                    <h2><b>IN</b>ner<b>EX</b>cellence</h2>
+                    <div class="scrollheredown">
+                      <p>Our H&S policy lays down clear guidelines to establish and maintain a high standard of health and safety performance in conformance with the statutory obligations in the region. Our policy is that that the health and safety of our partners, associates and the people visiting our premises or those related to our services are never compromised. Towards this end, INEX Contracting & Interiors LLC stands committed to the following policy.</p>
+                      <ul>
+                        <li>We will fully comply with all applicable legal requirements.</li>
+                        <li>We will establish and maintain an effective safety management system throughout the organization and provide necessary information and training.</li>
+                        <li>We will clearly define the health and safety responsibilities and competencies of all people concerned.</li>
+                        <li>We  will clearly define the health and safety responsibilities and competencies of all people concerned.</li>
+                      </ul>
+                      <p>Our H&S policy lays down clear guidelines to establish and maintain a high standard of health and safety performance in conformance with the statutory obligations in the region. Our policy is that that the health and safety of our partners, associates and the people visiting our premises or those related to our services are never compromised. Towards this end, INEX Contracting & Interiors LLC stands committed to the following policy.</p>
+                      <p>Our H&S policy lays down clear guidelines to establish and maintain a high standard of health and safety performance in conformance with the statutory obligations in the region. Our policy is that that the health and safety of our partners, associates and the people visiting our premises or those related to our services are never compromised. Towards this end, INEX Contracting & Interiors LLC stands committed to the following policy.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="flexaboutme">
+                <div>
+                  <img src="images/aboutsect.png" alt="">
+                </div>
+                <div>
+                  <div class="scrollabtliner">
+                    <h2><b>IN</b>ner<b>EX</b>cellence</h2>
+                    <div class="scrollheredown">
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="flexaboutme">
+                <div>
+                  <img src="images/aboutsect.png" alt="">
+                </div>
+                <div>
+                  <div class="scrollabtliner">
+                    <h2><b>IN</b>ner<b>EX</b>cellence</h2>
+                    <div class="scrollheredown">
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+       </div>
+     </div>
+   </div>
+   <div class="container">
+       <div class="hometexttop">
+         <div data-animated="fadeInUp">
+            <h1 class="stylehead">Certifications</h1>
+         </div>
+         <div data-animated="fadeInUp">
+            <p>We believe that benchmarks are set to be surpassed. At every level of activity at INEX we take care to conform to accepted norms of performance and strive to outdo them. The various endorsements and acknowledgements that we have earned are proof of our continuing commitment to excellence.</p>
+         </div>
+      </div>
+   </div>
+   <div class="certificateslider" data-animated="fadeInUp">
+      <div class="container">
+          <div class="slidercertify">
+            <div>
+              <!-- Edited Content Today Starts -->
+              <div class="certifybox">
+                  <a href="https://www.google.com/" target="_blank">
+                    <img src="images/certificate.jpg" alt="">
+                  </a>
+              </div>
+              <!-- Edited Content Ends -->
+            </div>
+            <div>
+              <div class="certifybox">
+                  <a href="https://www.google.com/" target="_blank">
+                    <img src="images/certificate.jpg" alt="">
+                  </a>
+              </div>
+            </div>
+            <div>
+              <div class="certifybox">
+                  <a href="https://www.google.com/" target="_blank">
+                    <img src="images/certificate.jpg" alt="">
+                  </a>
+              </div>
+            </div>
+            <div>
+              <div class="certifybox">
+                  <a href="https://www.google.com/" target="_blank">
+                    <img src="images/certificate.jpg" alt="">
+                  </a>
+              </div>
+            </div>
+            <div>
+              <div class="certifybox">
+                  <a href="https://www.google.com/" target="_blank">
+                    <img src="images/certificate.jpg" alt="">
+                  </a>
+              </div>
+            </div>
+            <div>
+              <div class="certifybox">
+                  <a href="https://www.google.com/" target="_blank">
+                    <img src="images/certificate.jpg" alt="">
+                  </a>
+              </div>
+            </div>
+            <div>
+              <div class="certifybox">
+                  <a href="https://www.google.com/" target="_blank">
+                    <img src="images/certificate.jpg" alt="">
+                  </a>
+              </div>
+            </div>
+            <div>
+              <div class="certifybox">
+                  <a href="https://www.google.com/" target="_blank">
+                    <img src="images/certificate.jpg" alt="">
+                  </a>
+              </div>
+            </div>
+          </div>
+      </div>
+   </div>
+    <footer>
+        <div class="container">
+          <div class="subscribebox">
+              <div>
+                 <input type="text" placeholder="sign up our newsletter" name="">
+                 <button>&#xe9a2;</button>
+              </div>
+           </div>
+           <div class="bottomfooter">
+              <div>
+                 <span>&copy; 2018 InEx Contracting and Interiors LLC. Designed by <a href="#" target="_blank">Adequate</a></span>
+              </div>
+              <div>
+                 <ul>
+                    <li><a href="#"><i class="fi fi-facebook"></i></a></li>
+                    <li><a href="#"><i class="fi fi-instagram"></i></a></li>
+                    <li><a href="#"><i class="fi fi-youtube-play"></i></a></li>
+                    <li><a href="#"><i class="fi fi-twitter"></i></a></li>
+                 </ul>
+              </div>
+           </div>
+         </div>
+      </footer>
+   <!-- Certificate Popup -->
+   <div class="certifypopup">
+    <i class="fi fi-close-a closecertify"></i>
+      <div class="middleware">
+        <div>
+          <div class="certifyimgpop">
+            <div>
+              <img src="images/certificate.jpg" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+   </div>
+   <!-- script -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+   <script src="js/main.min.js"></script>
+   </body>
+</html>

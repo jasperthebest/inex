@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+      <title>Inex About Us</title>
+      <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+      <!-- Edited Content Today Starts -->
+      <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900|Nunito:800|Poppins" rel="stylesheet">
+      <!-- Edited Content Ends -->
+      <link href="https://cdn.jsdelivr.net/npm/fontisto@v3.0.4/css/fontisto/fontisto.min.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <script src="js/modernizr.js"></script>
+   </head>
+   <body>
+   <header>
+      <div class="flexheader">
+         <div>
+            <a href="#" class="logoimg"><img src="images/logo.png" alt=""></a>
+         </div>
+         <div>
+            <div id="nav-icon">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+            </div>
+            <nav>
+               <ul>
+                  <li><a href="#" class="active">ABOUT US</a></li>
+                  <li><a href="#">PROJECTS</a></li>
+                  <li><a href="#">POLICIES</a></li>
+                  <li><a href="#">SERVICES</a></li>
+                  <li><a href="#">Clients</a></li>
+                  <li><a href="#">CONTACT US</a></li>
+               </ul>
+            </nav>
+            <div class="searchbox">
+               <a href="#"><i class="fi fi-search"></i></a>
+            </div>
+         </div>
+      </div>
+   </header>
+   <div class="searchbelow">
+      <input type="text" name="" placeholder="Search...">
+      <button><i class="fi fi-search"></i></button>
+   </div>
+   <div class="topcover coverBG" data-bg="images/aboutusbg.jpg">
+     <!-- Edited Content Today Starts -->
+     <div class="flextopcover">
+        <div>
+          <div class="container">
+            <h1><b>IN</b>terior <b>EX</b>perts​</h1>
+          </div>
+        </div>
+     </div>
+     <!-- Edited Content Ends -->
+   </div>
+   <div class="tabscrollbg">
+      <div class="container">
+      <div class="aboutme">
+        <div class="topnavscroll" data-animated="fadeInUp">
+          <ul>
+            <li class="active"><span>About us</span></li>
+            <li><span>MEP</span></li>
+            <li><span>Mission</span></li>
+            <li><span>vision</span></li>
+            <li><span>Core VAlues</span></li>
+          </ul>
+        </div>
+          <div class="contentabtscroll" data-animated="fadeInUp">
+            <div>
+              <div class="flexaboutme">
+                <div>
+                  <img src="images/aboutsect.png" alt="">
+                </div>
+                <div>
+                  <div class="scrollabtliner">
+                    <h2><b>IN</b>ner<b>EX</b>cellence</h2>
+                    <div class="scrollheredown">
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="flexaboutme">
+                <div>
+                  <img src="images/aboutsect.png" alt="">
+                </div>
+                <div>
+                  <div class="scrollabtliner">
+                    <h2><b>Scroll</b>Decellence</h2>
+                    <div class="scrollheredown">
+                      <p>The series is produced by July Moon Productions, Kicked to the Curb Productions, Anonymous Content and Paramount Television, with Yorkey and Diana Son serving as showrunners. Originally conceived as a film set to be released by Universal Pictures with Selena Gomez in the role of Hannah Baker, the adaptation was picked up as a television series by Netflix in late 2015. Gomez serves as an executive producer. The first season, and the special 13 Reasons Why: Beyond the Reasons, were released worldwide on Netflix on March 31, 2017.</p>
+                      <p>The series is produced by July Moon Productions, Kicked to the Curb Productions, Anonymous Content and Paramount Television, with Yorkey and Diana Son serving as showrunners. Originally conceived as a film set to be released by Universal Pictures with Selena Gomez in the role of Hannah Baker, the adaptation was picked up as a television series by Netflix in late 2015. Gomez serves as an executive producer. The first season, and the special 13 Reasons Why: Beyond the Reasons, were released worldwide on Netflix on March 31, 2017. The series is produced by July Moon Productions, Kicked to the Curb Productions, Anonymous Content and Paramount Television, with Yorkey and Diana Son serving as showrunners. Originally conceived as a film set to be released by Universal Pictures with Selena Gomez in the role of Hannah Baker, the adaptation was picked up as a television series by Netflix in late 2015. Gomez serves as an executive producer. The first season, and the special 13 Reasons Why: Beyond the Reasons, were released worldwide on Netflix on March 31, 2017.</p>
+                      <p>The series is produced by July Moon Productions, Kicked to the Curb Productions, Anonymous Content and Paramount Television, with Yorkey and Diana Son serving as showrunners. Originally conceived as a film set to be released by Universal Pictures with Selena Gomez in the role of Hannah Baker, the adaptation was picked up as a television series by Netflix in late 2015. Gomez serves as an executive producer. The first season, and the special 13 Reasons Why: Beyond the Reasons, were released worldwide on Netflix on March 31, 2017.</p>
+                      <p>The series is produced by July Moon Productions, Kicked to the Curb Productions, Anonymous Content and Paramount Television, with Yorkey and Diana Son serving as showrunners. Originally conceived as a film set to be released by Universal Pictures with Selena Gomez in the role of Hannah Baker, the adaptation was picked up as a television series by Netflix in late 2015. Gomez serves as an executive producer. The first season, and the special 13 Reasons Why: Beyond the Reasons, were released worldwide on Netflix on March 31, 2017. The series is produced by July Moon Productions, Kicked to the Curb Productions, Anonymous Content and Paramount Television, with Yorkey and Diana Son serving as showrunners. Originally conceived as a film set to be released by Universal Pictures with Selena Gomez in the role of Hannah Baker, the adaptation was picked up as a television series by Netflix in late 2015. Gomez serves as an executive producer. The first season, and the special 13 Reasons Why: Beyond the Reasons, were released worldwide on Netflix on March 31, 2017.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="flexaboutme">
+                <div>
+                  <img src="images/aboutsect.png" alt="">
+                </div>
+                <div>
+                  <div class="scrollabtliner">
+                    <h2><b>Total</b>ence</h2>
+                    <div class="scrollheredown">
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="flexaboutme">
+                <div>
+                  <img src="images/aboutsect.png" alt="">
+                </div>
+                <div>
+                  <div class="scrollabtliner">
+                    <h2>ner<b>EX</b>cellence</h2>
+                    <div class="scrollheredown">
+                      <p>Trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="flexaboutme">
+                <div>
+                  <img src="images/aboutsect.png" alt="">
+                </div>
+                <div>
+                  <div class="scrollabtliner">
+                    <h2><b>IN</b>nercellence</h2>
+                    <div class="scrollheredown">
+                      <p>The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                      <p>When passion complements professional skills, the outcome is performance above par. INEX Contracting & Interiors LLC has substantiated this principle since its existence in 2009. As a leading player in the interior finish and construction industry in the UAE we are highly rated for professional standards and core values. The confidence and trust in the Group by our customers are reflected in the many premium projects completed over the years, which stand as source of pride for our clients and a source of envy for our competition.</p>
+                      <p>INEX success is built on a strategic blend of talent with technology, innovation with experience, precision with promptness, and quality with competitive cost. Bringing all finishing works under one roof and integrating the various aspects from design to delivery, we guarantee our clients distinctive advantages in terms of convenience, consistent quality and cost effectiveness. Furthermore, as a turnkey interior contracting company, we exercise better control over all operations through coordinative management. The diversity of our technical expertise enables better technical support and focused guidance for correct decision-making. Our practice of sourcing materials directly from the manufacturers guarantees a consistent level of quality as well as competitive prices offering greater value for money.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+       </div>
+     </div>
+   </div>
+   <div class="container">
+       <div class="ourteam">
+          <div data-animated="fadeInUp"v>
+            <h1 class="stylehead"><b>our</b>TEAM</h1>
+            <p>People are our most valuable resources and we enhance their worth through motivation, training, involvement and rewards.</p>
+            <p>Our -150strong workforce comprise of talented minds and skilled hands in their respective trades and represents a proactive combination of managerial, supervisory and executive competencies.</p>
+          </div>
+          <div data-animated="fadeInUp">
+            <img src="images/team.jpg" alt="">
+          </div>
+       </div>
+   </div>
+    <footer>
+        <div class="container">
+          <div class="subscribebox">
+              <div>
+                 <input type="text" placeholder="sign up our newsletter" name="">
+                 <button>&#xe9a2;</button>
+              </div>
+           </div>
+           <div class="bottomfooter">
+              <div>
+                 <span>&copy; 2018 InEx Contracting and Interiors LLC. Designed by <a href="#" target="_blank">Adequate</a></span>
+              </div>
+              <div>
+                 <ul>
+                    <li><a href="#"><i class="fi fi-facebook"></i></a></li>
+                    <li><a href="#"><i class="fi fi-instagram"></i></a></li>
+                    <li><a href="#"><i class="fi fi-youtube-play"></i></a></li>
+                    <li><a href="#"><i class="fi fi-twitter"></i></a></li>
+                 </ul>
+              </div>
+           </div>
+         </div>
+      </footer>
+   <!-- script -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+   <script src="js/main.min.js"></script>
+   </body>
+</html>

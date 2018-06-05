@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+      <title>Inex Projects</title>
+      <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+      <!-- Edited Content Today Starts -->
+      <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900|Nunito:800|Poppins" rel="stylesheet">
+      <!-- Edited Content Ends -->
+      <link href="https://cdn.jsdelivr.net/npm/fontisto@v3.0.4/css/fontisto/fontisto.min.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <script src="js/modernizr.js"></script>
+   </head>
+   <body>
+   <header>
+      <div class="flexheader">
+         <div>
+            <a href="#" class="logoimg"><img src="images/logo.png" alt=""></a>
+         </div>
+         <div>
+            <div id="nav-icon">
+               <span></span>
+               <span></span>
+               <span></span>
+               <span></span>
+            </div>
+            <nav>
+               <ul>
+                  <li><a href="#">ABOUT US</a></li>
+                  <li><a href="#" class="active">PROJECTS</a></li>
+                  <li><a href="#">POLICIES</a></li>
+                  <li><a href="#">SERVICES</a></li>
+                  <li><a href="#">Clients</a></li>
+                  <li><a href="#">CONTACT US</a></li>
+               </ul>
+            </nav>
+            <div class="searchbox">
+               <a href="#"><i class="fi fi-search"></i></a>
+            </div>
+         </div>
+      </div>
+   </header>
+   <div class="searchbelow">
+      <input type="text" name="" placeholder="Search...">
+      <button><i class="fi fi-search"></i></button>
+   </div>
+   <div class="topcover coverBG" data-bg="images/projectbg.jpg">
+      <!-- Edited Content Today Starts -->
+     <div class="flextopcover">
+        <div>
+          <div class="container">
+            <h1><b>IN</b>valuable <b>EX</b>periemce</h1>
+          </div>
+        </div>
+     </div>
+     <!-- Edited Content Ends -->
+   </div>   
+   <div class="container">
+    <!-- Edited Content Today Starts -->
+      <div class="flexcovertop">
+         <div>
+            <div class="container">
+               <div class="hometexttop">
+                  <div>
+                     <h1 class="stylehead" data-animated="fadeInUp">PROJECTS</h1>
+                  </div>
+                  <div>
+                     <p data-animated="fadeInUp">Blending elegance with ergonomics is the essence of good decor. INEX specializes in evolving workspaces and living spaces that embody classy contemporaneity and convenience, and translates into true value for money.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Edited Content Ends -->
+      <div class="filterallplot">
+         <div class="filterarea" data-animated="fadeInUp">
+            <div class="filterdrop">
+               <h4>Filter</h4>
+               <span>All</span>
+            </div>
+            <ul>
+               <li data-filter="all" class="active">All</li>
+               <li data-filter="villas">Villas</li>
+               <li data-filter="offices">Offices</li>
+               <li data-filter="furniture">Furniture</li>
+               <li data-filter="shops">Shops</li>
+               <li data-filter="others">Others</li>
+            </ul>
+         </div>
+         <div class="grid">
+            <div class="grid-item villas">
+              <div class="singlefeatimg coverBG" data-bg="images/project1.jpg">
+                  <a href="#">
+                     <span>
+                        <h4>Private Villa</h4>
+                        <small>Abu Dhabi</small>
+                     </span>
+                  </a>
+               </div>
+           </div>
+           <div class="grid-item villas">
+              <div class="singlefeatimg coverBG" data-bg="images/project2.jpg">
+                  <a href="#">
+                     <span>
+                        <h4>Private Villa</h4>
+                        <small>Abu Dhabi</small>
+                     </span>
+                  </a>
+               </div>
+           </div>
+           <div class="grid-item offices">
+              <div class="singlefeatimg coverBG" data-bg="images/project3.jpg">
+                  <a href="#">
+                     <span>
+                        <h4>Private Villa</h4>
+                        <small>Abu Dhabi</small>
+                     </span>
+                  </a>
+               </div>
+           </div>
+           <div class="grid-item offices">
+              <div class="singlefeatimg coverBG" data-bg="images/project4.jpg">
+                  <a href="#">
+                     <span>
+                        <h4>Private Villa</h4>
+                        <small>Abu Dhabi</small>
+                     </span>
+                  </a>
+               </div>
+           </div>
+           <div class="grid-item furniture">
+              <div class="singlefeatimg coverBG" data-bg="images/project1.jpg">
+                  <a href="#">
+                     <span>
+                        <h4>Private Villa</h4>
+                        <small>Abu Dhabi</small>
+                     </span>
+                  </a>
+               </div>
+           </div>
+           <div class="grid-item shops">
+              <div class="singlefeatimg coverBG" data-bg="images/project2.jpg">
+                  <a href="#">
+                     <span>
+                        <h4>Private Villa</h4>
+                        <small>Abu Dhabi</small>
+                     </span>
+                  </a>
+               </div>
+           </div>
+           <div class="grid-item others">
+              <div class="singlefeatimg coverBG" data-bg="images/project3.jpg">
+                  <a href="#">
+                     <span>
+                        <h4>Private Villa</h4>
+                        <small>Abu Dhabi</small>
+                     </span>
+                  </a>
+               </div>
+           </div>
+           <div class="grid-item others">
+              <div class="singlefeatimg coverBG" data-bg="images/project4.jpg">
+                  <a href="#">
+                     <span>
+                        <h4>Private Villa</h4>
+                        <small>Abu Dhabi</small>
+                     </span>
+                  </a>
+               </div>
+           </div>
+         </div>
+      </div>
+    </div>
+      <footer>
+        <div class="container">
+         <div class="subscribebox">
+            <div>
+               <input type="text" placeholder="sign up our newsletter" name="">
+               <button>&#xe9a2;</button>
+            </div>
+         </div>
+         <div class="bottomfooter">
+            <div>
+               <span>&copy; 2018 InEx Contracting and Interiors LLC. Designed by <a href="#" target="_blank">Adequate</a></span>
+            </div>
+            <div>
+               <ul>
+                  <li><a href="#"><i class="fi fi-facebook"></i></a></li>
+                  <li><a href="#"><i class="fi fi-instagram"></i></a></li>
+                  <li><a href="#"><i class="fi fi-youtube-play"></i></a></li>
+                  <li><a href="#"><i class="fi fi-twitter"></i></a></li>
+               </ul>
+            </div>
+         </div>
+         </div>
+      </footer>
+  <!-- Edited Content Today Starts -->
+  <!-- Pop up -->
+  <div class="popupshow">
+    <div class="sliderpop">
+      <a href="#" class="closepop">CLOSE <i class="fi fi-close-a"></i></a>
+      <div class="descslider">
+            <div>
+              <h2>contracting</h2>
+              <h4>SAADIYAT VILLA 343</h4>
+              <p><b>Completed:</b> 2014<br/>
+              <b>Client:</b> Private Villa<br/>
+              <b>Scope:</b> Fit-out & Furnitures<br/>
+              <b>Consultant:</b> Design & Build<br/>
+              <b>Location:</b> Abu Dhabi</p>
+              <div class="arrowslider">
+                <span class="prevslider"><i class="fi fi-arrow-left"></i></span>
+                <span class="nextslider"><i class="fi fi-arrow-right"></i></span>
+              </div>
+            </div>
+            <div>
+              <div class="slidershower">
+                <div>
+                  <div class="coverBG" data-bg="images/desc1.jpg">
+                    <p>IF Description Goes here.... If not the bg will not show</p>
+                  </div>
+                </div>
+                <div>
+                  <div class="coverBG" data-bg="images/desc1.jpg">
+                    <p>IF Description Goes here.... If not the bg will not show</p>
+                  </div>
+                </div>
+                <div>
+                  <div class="coverBG" data-bg="images/desc1.jpg">
+                    <p>IF Description Goes here.... If not the bg will not show</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+    </div>
+  </div>
+  <!-- Edited Content Ends -->
+  </div>
+   <!-- script -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+   <script src="js/main.min.js"></script>
+   </body>
+</html>

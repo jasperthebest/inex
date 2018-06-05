@@ -1,0 +1,47 @@
+$white: #FFF;
+$black: #000;
+$grey: #3c3c3c;
+$dgrey: #555555;
+$lgrey: #767679;
+$hgrey: #414141;
+$head: #5e5e5e;
+$green: #75bb43;
+$lgreen: #75bb43;
+$linke: #1a1a1d;
+$nheadclr: #3b3b3a;
+$footbor: #adadad;
+$bodybor: #e2e8e8;
+$dotgrey: #c5c5c6;
+$ddotgrey: #3b3b3b;
+$brgreen: #b8d6d6;
+$plcclr: #1a1a1d;
+$clientgrey: #f2f2f2;
+$inputbrdr: #c2c2c2;
+$lblue: #24618e;
+$blckgrey: #252523;
+$navscrl: #696970;
+$certclr: #f0f0f0;
+$newheadclr: #676769;
+$icon: "fontisto";
+//$fru: 'Frutiger', sans-serif;
+$fru: 'Source Sans Pro', sans-serif;
+$nun: 'Nunito', sans-serif;
+$pop: 'Poppins', sans-serif;
+$awe: 'FontAwesome';
+$icon: "fontisto";
+.transitionRegular {
+	-webkit-transition:all 0.3s linear;
+	-moz-transition:all 0.3s linear;
+	transition:all 0.3s linear;
+}
+.appear {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+}
+.backface {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+} 
