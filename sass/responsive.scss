@@ -100,6 +100,7 @@
 	.grid .grid-item { padding-bottom: 20px; width: 50%; }
 	.flexaboutme>div h2 { padding: 25px 0 15px; }
 	.flexcovertop>div .hometexttop { padding: 30px 0 15px; }
+	.contactbar { padding-top: 15px; }
 }
 @media screen and (max-width:720px) {
 	.clientflex>div { width: 33.33%; }
@@ -111,6 +112,7 @@
 	.filterarea ul li { padding: 0 10px; }
 	.contactflex>div { padding: 0; width: 100%; }
 	.btnarea { padding: 15px 0 30px; }
+	.contactbar { padding-top: 0; }
 }
 @media screen and (max-width:640px) {
 	.bottomfooter { flex-direction: column-reverse; padding: 20px 0; 
